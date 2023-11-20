@@ -1,22 +1,30 @@
-# Hey, I'm Cristian, btw 👋 <img src="https://komarev.com/ghpvc/?username=chrisdemetriad&color=green" alt="" align="right" />
+# Chris Demetriad ✨🚀🐝👋🍻 <img src="https://komarev.com/ghpvc/?username=chrisdemetriad&color=green" alt="" align="right" />
+Senior React Engineer & Full Stack Dev Extraordinaire - Brewing Code in London ☕️🇬🇧
 
 Stalking much? 🤔
+Kidding!
 
-Just kidding, what I meant was.. I'm a full stack developer living in London, I love bee.. programming because, erm, because.. it's quite versatile - you gotta see the big picture, understand stakeholders' needs and translate those into requirements, understand how various components interact with each other, and so on. You've got to do all this in quite a structured manner. You get to learn a lot, solve problems, which is often rewarding, and have 8-10 coffees a day.
+Hey there, fellow code warriors! I'm Chris, hailing from the bustling streets of London. When I'm not busy being a front-end maestro, you can find me sipping on my 8th coffee of the day (Or is it the 10th? Who's counting, anyway? ☕️😉).
 
-## 🍻 Experience
-I sell myself as a React developer with over **17 years experience** ✨ in commercial front-end development as I honestly enjoy working with the latest web technologies – React/React Native, Node.js/Express, npm/git/webpack, Javascript/TypeScript, HTML5/CSS3, PHP and ASP.NET MVC/C# and have done so for clients such as Lloyds, River Island, French Connection, O2, Oxfam, Lexus and PokerStars. I am always up for new challenges and quite keen on taking responsibilities. Have worked with enterprise user interfaces on e-commerce and corporate websites and have achieved a vast experience in solving challenges. Always have an active and dynamic approach to working and getting tasks done, and I always find suitable solutions, with a high personal standard achieving excellent attention to detail and accuracy. Did I say "Always", or .. and no, I am not exactly a big fan of Always sanitary products 😶.
+## What I Do:
+React/TypeScript Developer: Over 20 years of turning coffee into code. I've been crafting user experiences that even my grandma finds cool. 🧑‍💻👵\
+Project Juggler: From Lloyds, River Island, French Connection, O2, Oxfam, Lexus to PokerStars, I've played with some big names, making sure their digital dreams don't turn into nightmares. 🎪🤹\
+Agile Aficionado: Rapid prototyping, swift release cycles, and Agile methodology - I'm the human embodiment of Scrum. 🏃‍♂️📈
 
+## My Magic Toolbox:
+Languages & Frameworks: React (I speak fluent JSX), TypeScript (type-safety is my middle name), and a sprinkle of Node.js for when I'm feeling backend-ish. 🧙‍♂️🔧\
+Tools & Tech: Docker (for when I need to containerise my brilliance), Jenkins (because continuous integration is continuous fun), Jest & RTL (testing is caring, after all). 🛠️🚀\
+UI/UX Design: Figma and Sketch are my paintbrushes, and the web is my canvas. 🎨🖌️
 
-## 🚲 How to get me
+## Why You Should Care:
+Problem Solver: I find bugs like a hungry anteater. Nothing escapes my eagle-eyed debugging skills. 🐜🔍\
+Team Player: I play well with others, but I can solo like a rockstar when needed. 🎸🤘\
+Learner & Mentor: Always learning, always teaching - it's the circle of code! 📚👨‍🏫
 
-<img src="https://raw.githubusercontent.com/chrisdemetriad/chrisdemetriad/master/assets/github.png" align="center"> [`chris@demetriad.co.uk`]
-
-<img src="https://raw.githubusercontent.com/chrisdemetriad/chrisdemetriad/master/assets/twitter.png" align="center"> [`Twitter`]
-
-## 💡 Projects
-
-I am full of ideas and I love working on bits and pieces here and there. I started a few projects, some have failed, others are getting there, the truth is my family is taking a lot of my time and sadly, I find less and less time lately.
+## Contact Me:
+📧 Email: chris@demetriad.co.uk\
+📞 Phone: 07950 44 22 00\
+🏠 Address: London, W1J 8AE
 
 ### 🏁 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,6 +36,7 @@ I am full of ideas and I love working on bits and pieces here and there. I start
 
 
 
-<!----------------- LINKS --------------->
-[`Twitter`]:                      https://twitter.com/chrisdemetriad/
-[`chris@demetriad.co.uk`]:         https://github.com/chrisdemetriad/
+
+
+
+
