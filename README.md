@@ -3,16 +3,15 @@
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" /></span> 
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="60" height="60" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="60" height="60" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="60" height="60" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60" /></span>
+    <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60" /></span>
 </div>
 
 # Chris Demetriad - Senior Frontend Engineer <img src="https://komarev.com/ghpvc/?username=chrisdemetriad&color=green" alt="" align="right" />
@@ -20,12 +19,12 @@
 Hey, I'm Chris, a senior react engineer brewing code in London ☕️🇬🇧. Probably sipping on my ~8th coffee for today.
 
 ## What I Do:
-React/TypeScript Developer: Over 20y of turning coffee into code. I've been crafting user experiences that even my grandma finds cool.\
+React/TypeScript Dev: 20+ years of turning coffee into code. I've been crafting user experiences that even my grandma finds cool.\
 Project Juggler: From Lloyds to O2, I've worked with some cool names, making sure their digital dreams don't turn into nightmares.\
 Agile Aficionado: Rapid prototyping, swift release cycles, Agile methodology - Scrum all the way.
 
 ## My Magic Toolbox:
-Frameworks: React (I speak JSX), TypeScript (type-safety is my middle name), and a sprinkle of Node.js for when I'm feeling backend-ish.\
+Frameworks: React (I speak JSX), TS (type-safety is my middle name), and a sprinkle of Node for when I'm feeling backend-ish.\
 Tools & Tech: Docker, Jenkin, Jest & RTL (testing is caring, after all).\
 UI/UX Design: Figma, Sketch, InVision. 
 
