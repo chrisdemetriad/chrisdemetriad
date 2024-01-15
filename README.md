@@ -1,42 +1,49 @@
-# Chris Demetriad ✨🚀🐝👋🍻 <img src="https://komarev.com/ghpvc/?username=chrisdemetriad&color=green" alt="" align="right" />
-Senior React Engineer & Full Stack Dev Extraordinaire - Brewing Code in London ☕️🇬🇧
+<div>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" /></span> 
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60" /></span>
+</div>
 
-Stalking much? 🤔
-Kidding!
+# Chris Demetriad - Senior Frontend Engineer <img src="https://komarev.com/ghpvc/?username=chrisdemetriad&color=green" alt="" align="right" />
 
-Hey there, fellow code warriors! I'm Chris, hailing from the bustling streets of London. When I'm not busy being a front-end maestro, you can find me sipping on my 8th coffee of the day (Or is it the 10th? Who's counting, anyway? ☕️😉).
+Hey, I'm Chris, a senior react engineer brewing code in London ☕️🇬🇧. Probably sipping on my ~8th coffee for today.
 
 ## What I Do:
-React/TypeScript Developer: Over 20 years of turning coffee into code. I've been crafting user experiences that even my grandma finds cool. 🧑‍💻👵\
-Project Juggler: From Lloyds, River Island, French Connection, O2, Oxfam, Lexus to PokerStars, I've played with some big names, making sure their digital dreams don't turn into nightmares. 🎪🤹\
-Agile Aficionado: Rapid prototyping, swift release cycles, and Agile methodology - I'm the human embodiment of Scrum. 🏃‍♂️📈
+React/TypeScript Developer: Over 20y of turning coffee into code. I've been crafting user experiences that even my grandma finds cool.\
+Project Juggler: From Lloyds to O2, I've worked with some cool names, making sure their digital dreams don't turn into nightmares.\
+Agile Aficionado: Rapid prototyping, swift release cycles, Agile methodology - Scrum all the way.
 
 ## My Magic Toolbox:
-Languages & Frameworks: React (I speak fluent JSX), TypeScript (type-safety is my middle name), and a sprinkle of Node.js for when I'm feeling backend-ish. 🧙‍♂️🔧\
-Tools & Tech: Docker (for when I need to containerise my brilliance), Jenkins (because continuous integration is continuous fun), Jest & RTL (testing is caring, after all). 🛠️🚀\
-UI/UX Design: Figma and Sketch are my paintbrushes, and the web is my canvas. 🎨🖌️
+Frameworks: React (I speak JSX), TypeScript (type-safety is my middle name), and a sprinkle of Node.js for when I'm feeling backend-ish.\
+Tools & Tech: Docker, Jenkin, Jest & RTL (testing is caring, after all).\
+UI/UX Design: Figma, Sketch, InVision. 
 
-## Why You Should Care:
-Problem Solver: I find bugs like a hungry anteater. Nothing escapes my eagle-eyed debugging skills. 🐜🔍\
-Team Player: I play well with others, but I can solo like a rockstar when needed. 🎸🤘\
-Learner & Mentor: Always learning, always teaching - it's the circle of code! 📚👨‍🏫
+## Why Should You Care:
+Problem Solver: I find bugs like a hungry anteater. Eagle eyes.\
+Team Player: I play well with others, but I can solo like a rockstar when needed.\
+Learner & Mentor: Always learning, always teaching - it's the way of life.\
+Team's Joker: We've got a _serious_ issue if you didn't get it by now 🤔
 
 ## Contact Me:
-📧 Email: chris@demetriad.co.uk\
-📞 Phone: 07950 44 22 00\
-🏠 Address: London, W1J 8AE
+Email: chris@demetriad.co.uk\
+Phone: 07950 44 22 00\
+Address: Green park, London
 
-### 🏁 Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisdemetriad&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdemetriad&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-
-
-
-
-
-
-
+### Stats
+<span align="right">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisdemetriad&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="chrisdemetriad" />  
+</span>
+<span align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisdemetriad&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="chrisdemetriad" />
+</span>
