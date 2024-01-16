@@ -16,7 +16,7 @@
 
 # Chris Demetriad - Senior Frontend Engineer <img src="https://komarev.com/ghpvc/?username=chrisdemetriad&color=green" alt="" align="right" />
 
-Hey, I'm Chris, a senior react engineer brewing code in London ☕️🇬🇧. Probably sipping on my ~8th coffee for today.
+Hey, I'm Chris, a senior React engineer brewing code in London ☕️🇬🇧. Probably sipping on my ~8th coffee for today.
 
 ## What I Do:
 React/TypeScript Dev: 20+ years of turning coffee into code. I've been crafting user experiences that even my grandma finds cool.\
@@ -41,7 +41,7 @@ Address: Green park, London
 
 ### Stats
 <span align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisdemetriad&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="chrisdemetriad" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisdemetriad&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide=stars,prs,contribs" alt="chrisdemetriad" />  
 </span>
 <span align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisdemetriad&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="chrisdemetriad" />
