@@ -13,10 +13,7 @@
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="45" height="45" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" />
   </span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google cloud" width="45" height="45" />
@@ -33,7 +30,7 @@ I've got quite a few years of turning coffee into code. I've been crafting user 
 I play well with others but also fine on my own. Love pair programming, mentoring, improving. Furthermore, I am _that guy_ with the jokes - always best to have one of these in your team :D.
 
 #### How?
-`React`, `React Native`/`Expo`, `Next.js`, `JS`/`TS`, and a sprinkle of `Node`/`Express`/`Fastify` for when I'm feeling backend-ish with `MongoDB`, `Supabase` or `PostgreSQL`. `Redux` was alright, `zustand` is way cooler, `jotai` isn't too bad. `Docker`, `Jenkins`, `Playwright` & `Cypress`, `Jest` & `Vitest` & `RTL` (testing is caring, after all). `Figma`, `Sketch`, `InVision`. `MUI`, `Mantine`, `Tailwind`. Big `Python` fan, I'd ideally like to continue my love story with `LangChain`.
+`React`, `React Native`/`Expo`, `Next.js`, `JS`/`TS`, and a sprinkle of `Node`/`Express`/`Fastify` (serverless too) for when I'm feeling backend-ish with `MongoDB`, `Supabase` or `PostgreSQL`. `Redux` was alright, `zustand` is way cooler, `jotai` isn't too bad. `Docker`, `Jenkins`, `Playwright` & `Cypress`, `Jest` & `Vitest` & `RTL` (testing is caring, after all). `Figma`, `Sketch`, `InVision`. `MUI`, `Mantine`, `Tailwind`. Big `Python` admirer, I'd ideally like to continue my love story with `LangChain`.
 
 #### Anything else?
 Father of two amazing kids, I have a nutcase of a ~~wi~~dog. Keen snowboarder, strong-ish chess player, decent photographer, a way better/faster cook, and I love reading philosophy and geopolitics. Peanut butter lover.
