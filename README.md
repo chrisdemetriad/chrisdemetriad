@@ -19,8 +19,8 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
-## Chris Demetriad - Senior Frontend Engineer <img src="https://komarev.com/ghpvc/?username=chrisdemetriad&color=green" alt="" align="right" />
-Hey, I'm Chris, a Senior React Engineer brewing ~~coff~~code in London ☕️🇬🇧. Probably sipping on my ~6th coffee for today.
+## Chris Demetriad - Senior Software Engineer <img src="https://komarev.com/ghpvc/?username=chrisdemetriad&color=green" alt="" align="right" />
+Hey, I'm Chris, a Senior Software Engineer brewing ~~coff~~code in London ☕️🇬🇧. Probably sipping on my ~6th coffee for today.
 
 #### Why me?
 I've got 25+ years of turning coffee into code. I've been crafting user experiences that even my grandma finds cool. Rapid prototyping, swift release cycles, AI agents, `Agile`, `KISS`, `DRY`, `SOLID`, `YAGNI`, `BLA BLA` you name it.
