@@ -25,21 +25,21 @@ Hey, I'm Chris, a Senior Software Engineer brewing ~~coff~~code in London ☕️
 #### Why me?
 I've got 25+ years of turning coffee into code. I've been crafting user experiences that even my grandma finds cool. Rapid prototyping, swift release cycles, AI agents, `Agile`, `KISS`, `DRY`, `SOLID`, `YAGNI`, `BLA BLA` you name it.
 
-I play well with others but also fine on my own. I love pair programming, mentoring, improving. Furthermore, I am _that guy_ with the jokes.
+I play well with others but also fine on my own. I love pair programming, mentoring, improving. Furthermore, I am _that_ funny guy.
 
 #### How?
-`Agentic workflows` and `RAG`, `AI` all over the place, with `React`, `React Native`/`Expo`, `Next.js`, `JS`/`TS`, and a sprinkle of `Node`/`Express`/`Fastify` (serverless too) for when I'm feeling backend-ish with `MongoDB`, `Supabase` or `PostgreSQL`. `Redux` was alright, `zustand` is way cooler, `jotai` isn't too bad. `Docker`, `Jenkins`, `Playwright` & `Cypress`, `Jest` & `Vitest` & `RTL` (testing is caring, after all). `Figma`, `Sketch`, `InVision`. `MUI`, `Mantine`, `Tailwind`, `Shadcn/Radix`. Big `Python` admirer, I'd ideally like to continue my love story with `LangChain`.
+`Agentic workflows` and `RAG`, `AI` all over the place, with `React`, `React Native`/`Expo`, `Next.js`, `JS`/`TS`, and a sprinkle of `Node`/`Express`/`Fastify` (serverless too) for when I'm feeling backend-ish with `MongoDB`, `Supabase` or `PostgreSQL`. `Redux` was alright, `zustand` is way cooler, `jotai` isn't too bad. `Docker`, `Jenkins`, `Playwright` & `Cypress`, `Jest` & `Vitest` & `RTL` (testing is caring, after all). `Figma`, `Sketch`, `InVision`. `Radix/Shadcn``MUI`, `Mantine`, `Tailwind`, `Shadcn/Radix`. `Python` enthusiast, I'd ideally like to continue my love story with `LangChain`.
 
 #### Anything else?
 Father of two amazing kids, I have a nutcase of a ~~wi~~dog. Keen snowboarder, strong-ish chess player, decent photographer, a way better/faster cook, and I love reading philosophy and geopolitics. Peanut butter lover.
 
 #### Where?
-Email: chris@demetriad.co.uk\
+Email: chris@demetriad.co.uk\ (**the only** email address I have)
 Phone: 07950 44 22 00\
 Address: Green park, London\
 LinkedIn: https://www.linkedin.com/in/chrisdemetriad/
 
 #### Hire
-Drop me a message. Might consider fully remote projects.
+WhatsApp, or call me. Will only consider fully remote projects.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisdemetriad&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="chrisdemetriad" />
